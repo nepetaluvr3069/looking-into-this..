@@ -19,4 +19,10 @@
 
 <p align="center"> <img src="https://file.garden/acvj9-ww3CLdG7n2/71308fb8eade37979da270f5bba2eecc.jpg" width="800"/><br><br>
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5ltiyjkaldbkm74hy3ngn5zfu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5ltiyjkaldbkm74hy3ngn5zfu&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&profanity=false&bar_color=e66700">
+  </a>
+</p>
+
 
